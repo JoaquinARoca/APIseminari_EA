@@ -3,6 +3,9 @@
 ## Descripció
 Una API bàsica desenvolupada en Node.js amb TypeScript, utilitzant Express i Mongoose per a la gestió de dades en MongoDB. A més, s'inclou documentació amb Swagger.
 
+## Referencias IA Utilizadas
+- ChatGPT
+
 ## Requisits previs
 Abans d'executar el projecte, assegura't de tenir instal·lat:
 - [Node.js](https://nodejs.org/)
